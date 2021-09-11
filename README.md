@@ -19,7 +19,7 @@ npm install
 
 ## Project Configuration
 
-Open Config.js file and Update the given values:
+Open config.js file and Update the given values:
 
 1. STARTING_PAGE: Should always be 1 unless you want to start from some other page.
 2. ENDING_PAGE: Last page number till which you want the data, i.e. 10.
